@@ -1,20 +1,19 @@
 
 [![tryfreshman](https://img.shields.io/badge/tryfreshman-github-blue?logo=github)](https://github.com/tryfreshman)
 
-天津大学 精密仪器与光电子工程学院 测控技术与仪器
+I am an undergraduate student majoring in Measurement, Control Technology and Instruments at the College of Precision Instrument and Opto-Electronics Engineering, Tianjin University.
 
-#### 联系方式
+#### Contract
 
 Email: shangguan_666@tju.edu.cn
 
-#### 教育背景
+#### Education
 
-2023-2027 天津大学 测控技术与仪器 学士
+B.Eng. in Measurement, Control Technology and Instruments, Tianjin University, 2023-2027 (Expected)
 
-#### 研究兴趣
+#### Research Interest
 
 仪器仪表<br>
 MEMS设计<br>
 传感器设计与应用<br>
 FPGA信号处理
-
