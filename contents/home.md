@@ -1,11 +1,11 @@
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![tryfreshman](https://img.shields.io/badge/tryfreshman-github-blue?logo=github)](https://github.com/tryfreshman)
 
 He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
 
 #### Contact
 
-Email: shangguan_666[at]tju.edu.cn
+Email: shangguan_666@tju.edu.cn
 
 #### Education
 M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
