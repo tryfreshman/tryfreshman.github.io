@@ -1,7 +1,7 @@
 
 [![tryfreshman](https://img.shields.io/badge/tryfreshman-github-blue?logo=github)](https://github.com/tryfreshman)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+天津大学 精密仪器与光电子工程学院 测控技术与仪器
 
 #### Contact
 
